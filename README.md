@@ -1,1 +1,3 @@
-# Predicting-Loan-Defaults-
+# Predicting-Loan-Defaults
+
+The primary objective and contribution of this paper is to analyze loan prediction based on customer behavior using two machine learning models, K-Nearest Neighbors and Decision Tree. The dataset consists of 12 features with over 252,000 samples. This study describes Data process and purification, as well as exploratory data analysis of the dataset. K-Nearest Neighbors is a non-parametric method used for classification and regression, while Decision Tree is a statistical model suitable for binary classification. Both algorithms are suitable for predicting potential defaulters for consumer loan products.
